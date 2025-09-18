@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "lib": ["deno.ns", "deno.unstable", "es2022", "dom"],
+    "strict": true,
+    "esModuleInterop": true
+  }
+}
