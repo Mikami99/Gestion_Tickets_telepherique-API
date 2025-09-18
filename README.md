@@ -1,11 +1,4 @@
 Projet 16: Gestion de ticket dans un station téléphérique
-- RAJAONAH Mickael, L2IDEV, n°57
-- RAZAFINIRINA Carenne Fanoëlah, L2IDEV, n°37
-- RASOANAIVO Harena Fitiavana, L2IDEV, n°35
-- RATEFINJANAHARY Finaritra Ny Avo, L2IDEV, n°4
-- RAMANDIMBIMANANA Tojoniaina Mickael, L2IDEV, n°3
-- RAZAKANTOANINA Tiavina Miarivola, L2IDEV, n°5
-
 
 # Fresh project
 
